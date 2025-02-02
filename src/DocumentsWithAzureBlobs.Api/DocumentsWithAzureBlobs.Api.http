@@ -1,0 +1,6 @@
+@DocumentsWithAzureBlobs.Api_HostAddress = http://localhost:5223
+
+GET {{DocumentsWithAzureBlobs.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
